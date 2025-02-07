@@ -13,13 +13,15 @@ Output
 For each test case, output a single line containing the text "Case #x: t", where x is the number of the test case and t is the minimum number of minutes it takes the pedestrian to get from the southwest corner to the northeast corner.
 
 Limits
-C, N, M, S, W, T are all non-negative integers.
-C ≤ 100
+- C, N, M, S, W, T are all non-negative integers.
+- C ≤ 100
+  
 Small Input
-1 ≤ N, M ≤ 3
-0 < S, W ≤ 10
-0 ≤ T ≤ 20
+- 1 ≤ N, M ≤ 3
+- 0 < S, W ≤ 10
+- 0 ≤ T ≤ 20
+
 Large Input
-1 ≤ N, M ≤ 20
-0 < S, W ≤ 10^7
-0 ≤ T ≤ 10^8
+- 1 ≤ N, M ≤ 20
+- 0 < S, W ≤ 10^7
+- 0 ≤ T ≤ 10^8
